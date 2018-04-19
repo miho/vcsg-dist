@@ -7,7 +7,7 @@ out
 
 # native code
 /src/main/resources/eu/mihosoft/vcsg/vcsgdist/linux/
-/src/main/resources/eu/mihosoft/vcsg/vcsg-ist/osx/
+/src/main/resources/eu/mihosoft/vcsg/vcsgdist/osx/
 /src/main/resources/eu/mihosoft/vcsg/vcsgdist/windows/
 
 # build info
