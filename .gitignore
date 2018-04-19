@@ -1,0 +1,15 @@
+/.nb-gradle/
+.idea/
+vcsg-dist.iml
+/build/
+/.gradle/
+out
+
+# native code
+/src/main/resources/eu/mihosoft/vcsg/vcsgdist/linux/
+/src/main/resources/eu/mihosoft/vcsg/vcsg-ist/osx/
+/src/main/resources/eu/mihosoft/vcsg/vcsgdist/windows/
+
+# build info
+/src/main/java/eu/mihosoft/vcsg/vcsgdist/BuildInfo.java
+
