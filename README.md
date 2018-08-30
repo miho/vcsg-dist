@@ -48,21 +48,18 @@ Distributions are are packaged as `vcsg.zip`. The locations for distributions ar
 ```
 .
 │
-└── src
-    └── eu
-        └── mihosoft
-            └── vcsg
-                └── vcsgdist
-                    ├── linux
-                    │   │  
-                    │   ├── x64/vcsg.zip
-                    │   └── x86
-                    │
-                    ├── osx/vcsg.zip
-                    │   
-                    └── windows
-                        │
-                        ├── x64
-                        │   └── vcsg.zip
-                        └── x86
+└── src/main/resources/eu/mihosoft/vcsg/vcsgdist
+                                        │
+                                        ├── linux
+                                        │   │  
+                                        │   ├── x64/vcsg.zip
+                                        │   └── x86
+                                        │
+                                        ├── osx/vcsg.zip
+                                        │   
+                                        └── windows
+                                        │
+                                        ├── x64
+                                        │   └── vcsg.zip
+                                        └── x86
 ```
