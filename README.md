@@ -57,7 +57,7 @@ Distributions are are packaged as `vcsg.zip`. The locations for distributions ar
                                         │
                                         ├── osx/vcsg.zip
                                         │   
-                                        └── windows
+                                        ├── windows
                                         │
                                         ├── x64
                                         │   └── vcsg.zip
