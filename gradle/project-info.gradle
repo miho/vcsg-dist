@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------------
 ext.publishing.artifactId =  project.name.toLowerCase()
 ext.publishing.groupId    =  'eu.mihosoft.vcsg.vcsgdist'
-ext.publishing.versionId  =  '0.9.2.1'
+ext.publishing.versionId  =  '0.9.3.0'
 
 ext.publishing.developerName         = 'Michael Hoffer'
 ext.publishing.developerAlias        = 'miho'
