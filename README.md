@@ -53,13 +53,12 @@ Distributions are are packaged as `vcsg.zip`. The locations for distributions ar
                                         ├── linux
                                         │   │  
                                         │   ├── x64/vcsg.zip
-                                        │   └── x86
+                                        │   └── x86 (currently not supported)
                                         │
                                         ├── osx/vcsg.zip
                                         │   
-                                        ├── windows
-                                        │
-                                        ├── x64
-                                        │   └── vcsg.zip
-                                        └── x86
+                                        └── windows
+                                            │
+                                            ├── x64/vcsg.zip
+                                            └── x86 (currently not supported)
 ```
