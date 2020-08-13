@@ -12,8 +12,8 @@ apply from: 'gradle/publishing.gradle'
 sourceCompatibility = '1.8'
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 
-task wrapper(type: Wrapper, description: 'Creates and deploys the Gradle wrapper to the current directory.') {
-    gradleVersion = '4.10'
+wrapper {
+    gradleVersion = '6.6'
 }
 
 repositories {
