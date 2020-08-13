@@ -3,7 +3,14 @@
 vcsg-dist.iml
 /build/
 /.gradle/
-out
+/out
+/bin
+
+/.project
+/.classpath
+/.eclipse
+/.settings
+/.vscode/
 
 # native code
 /src/main/resources/eu/mihosoft/vcsg/vcsgdist/linux/
